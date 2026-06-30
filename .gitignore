@@ -1,0 +1,23 @@
+# Datasets e Arquivos Pesados
+Dataset_Originals/
+Dataset_MachineLearning.zip
+
+# MLflow Tracking e Modelos Salvos
+mlruns/
+saved_models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
