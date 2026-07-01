@@ -1,10 +1,13 @@
 # Datasets e Arquivos Pesados
 Dataset_Originals/
 Dataset_MachineLearning.zip
+Dataset_Originals.zip
 
 # MLflow Tracking e Modelos Salvos
 mlruns/
-saved_models/
+Deep_Learning/mlruns/
+Machine_Learning/mlruns_ml/
+Deep_Learning/saved_models/
 
 # Python
 __pycache__/

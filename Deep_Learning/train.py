@@ -8,7 +8,7 @@ import mlflow.pytorch
 from pathlib import Path
 
 from dataset import get_dataloaders
-from cnn3 import CNN3
+from models.cnn3 import CNN3
 
 def train_model():
     # Hiperparâmetros padrões
@@ -21,7 +21,7 @@ def train_model():
     # a pasta Dataset_Originals e mlruns estão um nível acima
     BASE_DIR = Path(__file__).resolve().parent.parent
     DATA_DIR = BASE_DIR / "Dataset_Originals"
-    MLRUNS_DIR = BASE_DIR / "mlruns"
+    MLRUNS_DIR = BASE_DIR / "Deep_Learning" / "mlruns"
     SAVED_MODELS_DIR = BASE_DIR / "saved_models"
     
     if not SAVED_MODELS_DIR.exists():
@@ -51,7 +51,7 @@ def train_model():
     optimizer = optim.Adam(model.parameters(), lr=LEARNING_RATE)
     
     # Configurando MLflow
-    mlflow.set_tracking_uri(f"file://{MLRUNS_DIR.as_posix()}")
+    mlflow.set_tracking_uri(MLRUNS_DIR.as_uri())
     mlflow.set_experiment("Projeto2_DeepLearning")
     
     with mlflow.start_run():
