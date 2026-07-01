@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Deep_Learning/mlruns/764753407516378035/59aab44be99f44518b8685cbfa7244e1/artifacts
+end_time: 1782783520842
+entry_point_name: ''
+experiment_id: '764753407516378035'
+lifecycle_stage: active
+run_id: 59aab44be99f44518b8685cbfa7244e1
+run_name: CNN5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782783314520
+status: 3
+tags: []
+user_id: Miguel

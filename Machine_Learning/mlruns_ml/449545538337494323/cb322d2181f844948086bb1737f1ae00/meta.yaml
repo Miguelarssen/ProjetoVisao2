@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Machine_Learning/mlruns_ml/449545538337494323/cb322d2181f844948086bb1737f1ae00/artifacts
+end_time: 1782871598639
+entry_point_name: ''
+experiment_id: '449545538337494323'
+lifecycle_stage: active
+run_id: cb322d2181f844948086bb1737f1ae00
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782871592820
+status: 3
+tags: []
+user_id: Miguel

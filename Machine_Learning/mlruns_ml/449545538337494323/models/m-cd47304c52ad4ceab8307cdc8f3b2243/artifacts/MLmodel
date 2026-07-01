@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Machine_Learning/mlruns_ml/449545538337494323/models/m-cd47304c52ad4ceab8307cdc8f3b2243/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-cd47304c52ad4ceab8307cdc8f3b2243
+model_size_bytes: 2980902
+model_uuid: m-cd47304c52ad4ceab8307cdc8f3b2243
+prompts: null
+run_id: cb322d2181f844948086bb1737f1ae00
+utc_time_created: '2026-07-01 02:06:34.891115'

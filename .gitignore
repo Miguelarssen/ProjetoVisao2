@@ -2,11 +2,9 @@
 Dataset_Originals/
 Dataset_MachineLearning.zip
 Dataset_Originals.zip
-
-# MLflow Tracking e Modelos Salvos
-mlruns/
-Deep_Learning/mlruns/
-Machine_Learning/mlruns_ml/
+# Pesos de Modelos (Não subir para o Git!)
+*.pth
+*.pkl
 Deep_Learning/saved_models/
 
 # Python

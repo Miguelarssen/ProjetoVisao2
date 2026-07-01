@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Deep_Learning/mlruns/764753407516378035/models/m-77304a0fb8e441e883a8e4a8cbb4c737/artifacts
+creation_timestamp: 1782783515765
+experiment_id: '764753407516378035'
+last_updated_timestamp: 1782783520801
+model_id: m-77304a0fb8e441e883a8e4a8cbb4c737
+model_type: null
+name: model
+source_run_id: 59aab44be99f44518b8685cbfa7244e1
+status: 2
+status_message: null

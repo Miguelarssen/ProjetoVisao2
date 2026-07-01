@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Machine_Learning/mlruns_ml/449545538337494323/models/m-cee502d5462643fd9066283381207679/artifacts
+creation_timestamp: 1782871583379
+experiment_id: '449545538337494323'
+last_updated_timestamp: 1782871588224
+model_id: m-cee502d5462643fd9066283381207679
+model_type: null
+name: model
+source_run_id: 3c61a51ccad2429d83482ee75713f111
+status: 2
+status_message: null

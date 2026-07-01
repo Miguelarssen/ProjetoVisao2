@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Machine_Learning/mlruns_ml/449545538337494323/3c61a51ccad2429d83482ee75713f111/artifacts
+end_time: 1782871588245
+entry_point_name: ''
+experiment_id: '449545538337494323'
+lifecycle_stage: active
+run_id: 3c61a51ccad2429d83482ee75713f111
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782871581800
+status: 3
+tags: []
+user_id: Miguel

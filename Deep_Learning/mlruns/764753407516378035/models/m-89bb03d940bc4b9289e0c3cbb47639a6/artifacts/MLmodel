@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/mlruns/764753407516378035/models/m-89bb03d940bc4b9289e0c3cbb47639a6/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.19
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.6.0+cu124
+mlflow_version: 3.12.0
+model_id: m-89bb03d940bc4b9289e0c3cbb47639a6
+model_size_bytes: 44809886
+model_uuid: m-89bb03d940bc4b9289e0c3cbb47639a6
+prompts: null
+run_id: da1603ba5eaa4f9db520a2a213e2acfd
+utc_time_created: '2026-06-30 01:42:05.418649'

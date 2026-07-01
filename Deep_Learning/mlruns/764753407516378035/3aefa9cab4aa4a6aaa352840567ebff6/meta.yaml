@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Deep_Learning/mlruns/764753407516378035/3aefa9cab4aa4a6aaa352840567ebff6/artifacts
+end_time: 1782784192552
+entry_point_name: ''
+experiment_id: '764753407516378035'
+lifecycle_stage: active
+run_id: 3aefa9cab4aa4a6aaa352840567ebff6
+run_name: ConvNeXtTiny
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782783732392
+status: 3
+tags: []
+user_id: Miguel

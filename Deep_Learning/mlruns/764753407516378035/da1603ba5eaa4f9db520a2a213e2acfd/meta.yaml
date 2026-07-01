@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Miguel/Desktop/EstudosUTFPR/Vis%C3%A3o%20Computacional/projeto%202/Deep_Learning/mlruns/764753407516378035/da1603ba5eaa4f9db520a2a213e2acfd/artifacts
+end_time: 1782783732088
+entry_point_name: ''
+experiment_id: '764753407516378035'
+lifecycle_stage: active
+run_id: da1603ba5eaa4f9db520a2a213e2acfd
+run_name: ResNet18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782783520971
+status: 3
+tags: []
+user_id: Miguel
